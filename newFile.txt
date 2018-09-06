@@ -1,0 +1,11 @@
+Dear Sir stroke Madam, I am writing to inform you of a fire which has broken 
+out at the premises of... Nicer ambulances, faster response times and better 
+looking drivers mean they're not just the Emergency Services, they're your 
+Emergency Services. No, no, that's the music you heard when it come on. 
+Today I have a business empire the like of which the world has never seen 
+the like of which. I hope it doesn't sound arrogant when I say that I am 
+the greatest man in the world! Might want to play a bit hard to get. See 
+the driver hooks a function by patching the system call table, so its not 
+safe to unload it unless another thread's about to jump in there and do its 
+stuff, and you don't want to end up in the middle of 
+invalid memory!
